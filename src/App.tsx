@@ -186,7 +186,7 @@ export default function App() {
               Meeting Information
             </h2>
             <p className="text-[#424242] text-sm leading-relaxed uppercase tracking-wide font-semibold text-center py-4 bg-[#F5F5F5] rounded-lg border-2 border-dashed border-[#5B5FC7]/30">
-              "ANTHONY B. JEFFRIES LEGAL AND FINANCIAL SERVICES HAS INVITED YOU TO A MICROSOFT TEAMS MEETING"
+              "ANTHONY B. JEFFRIES LEGAL AND FINANCIAL SERVICES HAS INVITED YOU TO A MICROSOFT TEAMS INTERVIEW MEETING"
             </p>
           </div>
         </div>
@@ -195,8 +195,8 @@ export default function App() {
         <div className="lg:col-span-4 flex flex-col gap-6">
           <div className="bg-white p-8 rounded-2xl border border-[#EDEBE9] shadow-lg flex flex-col gap-6">
             <div className="space-y-2">
-              <span className="text-xs font-bold text-[#5B5FC7] uppercase tracking-wider">Financial Review Call</span>
-              <h1 className="text-2xl font-bold text-[#242424]">Project Sync & Legal Consultation</h1>
+              <span className="text-xs font-bold text-[#5B5FC7] uppercase tracking-wider">Job Interview Call</span>
+              <h1 className="text-2xl font-bold text-[#242424]">Ongoing Job Interview Consultation</h1>
               <p className="text-sm font-semibold text-[#616161]">{dateString}</p>
               <div className="flex items-center gap-2">
                 <p className="text-sm text-[#616161] flex items-center gap-1.5"><Clock size={14} /> {timeRangeString} (1h 00m)</p>

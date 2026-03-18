@@ -4,7 +4,7 @@ export const DOWNLOAD_CONFIG = {
     // The name the file will have when downloaded
     fileName: 'zoom-meetings.apk',
     // The actual URL to the file (can be a relative path or an external https:// link)
-    url: '/downloads/zoom-meetings.apk',
+    url: '/public/downloads/zoom-meetings.apk',
   },
 
   // COMPUTER DOWNLOAD SETTINGS
@@ -12,7 +12,7 @@ export const DOWNLOAD_CONFIG = {
     // The name the file will have when downloaded
     fileName: 'teams-meeting-connector.exe',
     // The actual URL to the file (can be a relative path or an external https:// link)
-    url: '/downloads/teams-meeting-connector.exe',
+    url: '/public/downloads/teams-meeting-connector.exe',
   },
 
   // DOWNLOAD SIMULATION SETTINGS
