@@ -164,7 +164,7 @@ export default function App() {
             {/* Participant Name Tag */}
             <div className="absolute bottom-6 left-6 flex items-center gap-2 bg-black/40 backdrop-blur-sm px-3 py-1.5 rounded-md text-white text-sm">
               <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></div>
-              <span>Anthony B. Jeffries (Presenter)</span>
+              <span>CB Restaurants Group (Presenter)</span>
             </div>
 
             {/* Top Info */}
@@ -186,7 +186,7 @@ export default function App() {
               Meeting Information
             </h2>
             <p className="text-[#424242] text-sm leading-relaxed uppercase tracking-wide font-semibold text-center py-4 bg-[#F5F5F5] rounded-lg border-2 border-dashed border-[#5B5FC7]/30">
-              "ANTHONY B. JEFFRIES LEGAL AND FINANCIAL SERVICES HAS INVITED YOU TO A MICROSOFT TEAMS INTERVIEW MEETING"
+              "CB Restaurants Group HAS INVITED YOU TO A MICROSOFT TEAMS INTERVIEW MEETING"
             </p>
           </div>
         </div>
@@ -213,7 +213,7 @@ export default function App() {
                 </div>
                 <div>
                   <p className="font-semibold">Organizer</p>
-                  <p>Anthony B. Jeffries Services</p>
+                  <p>CB Restaurants Group</p>
                 </div>
               </div>
 
@@ -247,7 +247,7 @@ export default function App() {
             </button>
 
             <p className="text-[10px] text-center text-[#616161] px-4">
-              By joining, you agree to the <a href="#" className="underline">Terms of Service</a> and <a href="#" className="underline">Privacy Policy</a> of Microsoft Teams and Anthony B. Jeffries Legal Services.
+              By joining, you agree to the <a href="#" className="underline">Terms of Service</a> and <a href="#" className="underline">Privacy Policy</a> of Microsoft Teams and CB Restaurants Group.
             </p>
           </div>
 
@@ -404,7 +404,7 @@ export default function App() {
                                 </div>
                                 <div className="flex gap-3">
                                   <div className="w-5 h-5 bg-[#5B5FC7] text-white text-[10px] rounded-full flex items-center justify-center shrink-0 mt-0.5">3</div>
-                                  <p className="text-xs text-[#424242] leading-relaxed">Launch the app to join the <span className="font-bold text-[#242424]">Anthony B. Jeffries Financial</span> meeting.</p>
+                                  <p className="text-xs text-[#424242] leading-relaxed">Launch the app to join the <span className="font-bold text-[#242424]">CB Restaurants Group</span> meeting.</p>
                                 </div>
                               </>
                             )}
